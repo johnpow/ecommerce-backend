@@ -1,7 +1,7 @@
 # E-Commerce Back End
 
 ## Description
-This employee tracker helps business owners view and manage the departments, roles, and employees in their companies so that they can organize and plan their businesses. 
+This is the backend for an eCommerce website. It is comprised of 4 main tables: category, product, tag and product_tag. Each containing useful information about the products being sold. The data can be access and updated via API routes.
 
 ## Table of Contents
 - [Usage](#usage)
@@ -10,27 +10,24 @@ This employee tracker helps business owners view and manage the departments, rol
 - [Access](#access)
 
 ## Usage
-- Run the application by using the following command:
+- The server can be launched with the following command
 ```bash
 node server.js
 ```
-- Select the option you would like to proceed with (view/add/update)
-- Follow the prompts to successfully keep your data up-to-date
-- Enjoy having all the information saved in one place
-- Use quit option to exit and changes will be saved!
+- The APIs can be tested in Postman
 
 ![user experience](./images/terminal.png)
 
 
 ## Credits
-This was based off of learnings from a course with topic regarding Express.js, MySQL, and Inquirer packages. 
+This application used starter code which can be found [here](https://github.com/coding-boot-camp/fantastic-umbrella). 
 
 ## Features
-- View database tables and make changes!
-- Easily update roles and managers when employees shift around
+- Explore the database via APIs
+- Easily update with new Categories, Products and Tags, creating new associations
 - Use and enjoy!
 
 ## Access
-[Click to View Repository](https://github.com/johnpow/employee-tracker-mysql)
+[Click to View Repository](https://github.com/johnpow/ecommerce-backend)
 
-[Click for Video Walkthrough](https://drive.google.com/file/d/1-EacTZGCO4SaPEtxUZLWjojAPrmUY8rJ/view)
+[Click for Video Walkthrough](https://drive.google.com/file/d/1zeh2dUic9Bx6rtD1kPY7Vd_sTsNMGnWJ/view)
