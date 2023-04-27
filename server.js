@@ -12,7 +12,7 @@ const {
   Category,
   Tag,
   ProductTag,
-} = require('./model');
+} = require('./models');
 
 
 
