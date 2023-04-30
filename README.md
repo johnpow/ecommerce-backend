@@ -30,4 +30,4 @@ This application used starter code which can be found [here](https://github.com/
 ## Access
 [Click to View Repository](https://github.com/johnpow/ecommerce-backend)
 
-[Click for Video Walkthrough](https://drive.google.com/file/d/1zeh2dUic9Bx6rtD1kPY7Vd_sTsNMGnWJ/view)
+[Click for Video Walkthrough](https://drive.google.com/file/d/1emJcB27Zmf8-_wYbaSzzA0aPtzMM6odn/view)

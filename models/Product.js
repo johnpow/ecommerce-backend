@@ -14,6 +14,7 @@ Product.init(
       autoIncrement: true,
       allowNull: false,
       primaryKey: true,
+      onDelete: 'CASCADE',
     },
     product_name: {
       type: DataTypes.STRING,

@@ -10,7 +10,8 @@ Tag.init(
       type: DataTypes.INTEGER,
       autoIncrement: true,
       allowNull: false,
-      primaryKey: true
+      primaryKey: true,
+      onDelete: 'CASCADE',
   },
   tag_name: {
       type: DataTypes.STRING,
